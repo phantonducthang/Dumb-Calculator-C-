@@ -1,0 +1,14 @@
+D:\toturial\bin\Debug\net8.0\toturial.exe
+D:\toturial\bin\Debug\net8.0\toturial.deps.json
+D:\toturial\bin\Debug\net8.0\toturial.runtimeconfig.json
+D:\toturial\bin\Debug\net8.0\toturial.dll
+D:\toturial\bin\Debug\net8.0\toturial.pdb
+D:\toturial\obj\Debug\net8.0\toturial.GeneratedMSBuildEditorConfig.editorconfig
+D:\toturial\obj\Debug\net8.0\toturial.AssemblyInfoInputs.cache
+D:\toturial\obj\Debug\net8.0\toturial.AssemblyInfo.cs
+D:\toturial\obj\Debug\net8.0\toturial.csproj.CoreCompileInputs.cache
+D:\toturial\obj\Debug\net8.0\toturial.dll
+D:\toturial\obj\Debug\net8.0\refint\toturial.dll
+D:\toturial\obj\Debug\net8.0\toturial.pdb
+D:\toturial\obj\Debug\net8.0\toturial.genruntimeconfig.cache
+D:\toturial\obj\Debug\net8.0\ref\toturial.dll
