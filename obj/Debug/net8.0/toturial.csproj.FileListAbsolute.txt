@@ -12,3 +12,4 @@ D:\toturial\obj\Debug\net8.0\refint\toturial.dll
 D:\toturial\obj\Debug\net8.0\toturial.pdb
 D:\toturial\obj\Debug\net8.0\toturial.genruntimeconfig.cache
 D:\toturial\obj\Debug\net8.0\ref\toturial.dll
+D:\toturial\obj\Debug\net8.0\toturial.sourcelink.json
